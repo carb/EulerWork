@@ -1,5 +1,3 @@
-global fibseq
-global fibeven
 fibseq = [1,2]
 fibeven = [2]
 for num in range(10000)[2:]:

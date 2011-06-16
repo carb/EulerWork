@@ -1,9 +1,5 @@
-import math
-global primes
 primes = [2]
-global e
 e = 0
-global ans
 ans = 2
 for num in range(10000)[2:]:
   e = 0
